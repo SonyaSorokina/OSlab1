@@ -1,0 +1,4 @@
+Enter text
+hello world!
+面面面面面面面面stdin = 80
+stdout = 84

@@ -1,0 +1,5 @@
+Enter text
+Enter text
+hello world!
+ÌÌÌÌÌstdin = 80
+stdout = 84
